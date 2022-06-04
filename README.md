@@ -5,7 +5,7 @@
 - Python, Javascript, and SQL developer
 - Currently Learning React.js
 
-I am the developer of [linksfor.me](https://linksfor.me), an enhanced URL Shortener, and of [this fun school clock](https://school.bob-brown.info), a helpful little web app to let you know when the misery of whatever class you're in will end.
+I am the developer of [linksfor.me](https://linksfor.me), an enhanced URL Shortener, and of [this fun school clock](https://whenislun.ch), a helpful little web app to let you know when the misery of whatever class you're in will end.
 
 <br>
 
