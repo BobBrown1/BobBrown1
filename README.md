@@ -1,4 +1,4 @@
-<a href="https://sogi-ai.web.app" target="_blank">Happy Pride Month!!</a>
+<a href="https://sogi-ai.web.app" target="_blank">It ain't June but... Happy Pride Month!</a>
 
 - He/Him Pronouns
 - Huge rock/metal music enthusiast
