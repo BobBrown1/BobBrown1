@@ -3,7 +3,7 @@
 - He/Him Pronouns
 - Huge rock/metal music enthusiast
 - Python, Javascript, and SQL developer
-- Currently Learning React.js
+- Currently about Spotify Web API
 
 I am the developer of <a href="https://linksfor.me" target="_blank">linksfor.me</a>, an enhanced URL Shortener, and of <a href="https://whenislun.ch" target="_blank">this fun school clock</a>, a helpful little web app to let you know when the misery of whatever class you're in will end.
 
