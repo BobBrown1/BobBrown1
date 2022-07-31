@@ -1,9 +1,10 @@
-<a href="https://sogi-ai.web.app" target="_blank">It ain't June but... Happy Pride Month!</a>
+<a href="https://sogiai.com" target="_blank">It ain't June but... Happy Pride Month!</a>
 
 - He/Him Pronouns
 - Huge rock/metal music enthusiast
 - Python, Javascript, and SQL developer
 - Currently about Spotify Web API
+- Desperately searching for a website idea
 
 I am the developer of <a href="https://linksfor.me" target="_blank">linksfor.me</a>, an enhanced URL Shortener, and of <a href="https://whenislun.ch" target="_blank">this fun school clock</a>, a helpful little web app to let you know when the misery of whatever class you're in will end.
 
