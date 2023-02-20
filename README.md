@@ -8,8 +8,9 @@
 
 I am the developer of <a href="https://linksfor.me" target="_blank">linksfor.me</a>, an enhanced URL Shortener, and of <a href="https://whenislun.ch" target="_blank">this fun school clock</a>, a helpful little web app to let you know when the misery of whatever class you're in will end.
 
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eszcqv55x8d9h5w80xa2ricls)
- -->
+Some of my other fun side projects include a [record player visualizer](https://vinyl.bob-brown.com) that connects to your Spotify account, this [not-so-friendly Discord chatbot](https://bullyme.xyz) that is in over 10k servers, and this [fancy React site](https://sogiai.com) I made during pride month.
+
+You can learn more about me in my [portfolio site](https://bob-brown.com)!
 ## Contact
 
 - [Discord](https://discordapp.com/users/893939197537288265) (Bob Brown#4849)
