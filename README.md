@@ -25,6 +25,7 @@ I wouldn't say these are my most useful projects.
 - **[Record Player Visualizer](https://vinyl.ronenjain.com)** (9th Grade): A web app powered by Spotify API.
 - **[BullyMe](https://bullyme.ronenjain.com)** (8th Grade): A not-so-friendly Discord chatbot that ~~is~~ was in over 10k servers
 - **[Headline or Headlie](https://aiheadlines.web.app)** (9th Grade): A Wordle-inspired headline guessing game made using ChatGPT.
+- **[Sheet2Feed](https://sheets.ronenjain.com)** (10th Grade): A web app that allows users to create and manage web feeds by connecting their Google Sheets.
 
 You can learn more about me on my [portfolio site](https://ronenjain.com)!
 
