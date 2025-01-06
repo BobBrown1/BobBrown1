@@ -1,5 +1,5 @@
 # Hey, I'm Ronen! 👋
-### High School Developer | Aspiring Social Impact Technologist | Rock/Metal Enthusiast
+### High School Developer | Aspiring Social Impact Technologist
 
 ## 👨‍💻 About Me
 - 🎸 Huge rock/metal music enthusiast  
