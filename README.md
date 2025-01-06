@@ -1,18 +1,35 @@
-<!-- <a href="https://sogiai.com" target="_blank">It ain't June but... Happy Pride Month!</a>
- -->
-- Huge rock/metal music enthusiast
-- Python, Javascript, HTML/CSS, Java, and SQL developer
-- Currently working on too much homework and far too many projects.
-- Always desperately searching for a website idea
+# Hey, I'm Ronen! 👋
+### High School Developer | Aspiring Social Impact Technologist | Rock/Metal Enthusiast
 
-Back in 8th grade, I developed <a href="https://lfm.ronenjain.com" target="_blank">linksfor.me</a>, an enhanced URL Shortener, and <a href="https://school.ronenjain.com" target="_blank">this fun school clock</a>, a helpful little web app to let you know when the misery of whatever class you're in will end.
+## 👨‍💻 About Me
+- 🎸 Huge rock/metal music enthusiast  
+- 🧑‍💻 Skilled in **Python**, **JavaScript**, **HTML/CSS**, **Java**, **React**, and **SQL**
+- 🧠 Experience in using **Git**, **Firebase**, **AWS**, **Google Cloud**, **Expo**, and **Vercel**.
+- 📚 Currently juggling too much homework and far too many random projects
+- 💡 Always on the lookout for creative website and app ideas
 
-Some of my other fun side projects included a [record player visualizer](https://vinyl.ronenjain.com) that connects to your Spotify account, this [not-so-friendly Discord chatbot](https://bullyme.ronenjain.com) that is in over 10k servers, and a [Wordle-inspired headline guessing game](https://aiheadlines.web.app) using ChatGPT.
+### 🔹 **Where It All Began (Middle School Projects)**  
+These were my earliest experiments with coding, where I threw together snippets from Stack Overflow and confusing CSS to make hardly working (yet so satisfying to complete) projects.
+- **[linksfor.me](https://lfm.ronenjain.com)** (8th Grade): A URL shortener + link grouping tool.
+- **[whenislun.ch](https://school.ronenjain.com)** (8th Grade): A little web app that tells you when class will end.
+- **[Pitcher Predictor](https://pitcher.ronenjain.com)** (8th Grade): A Flask app that predicts the starting pitchers of upcoming baseball games.
 
-I have interned with the Philadelphia Phillies' Research and Development Department, worked with [Tiny Village Spirit](https://tinyvillagespirit.org), and developed [ElderSafe](https://eldersafe.ronenjain.com) for the Congressional App Challenge.
+### 🔹 **High School Projects**  
+As I've gained more experience, I've started working on more meaningful projects:
+- **[ElderSafe](https://eldersafe.ronenjain.com)** (10th Grade): A mobile app for identifying home safety hazards for seniors.  
+- **[Tiny Village Spirit](https://tinyvillagespirit.org)** (10th Grade): Built the website for a Bay Area non-profit focused on housing justice and reform.  
+- **[Stealth Startup](#)** (11th Grade): A product customization engine and e-commerce platform dedicated to providing emotional support to families grieving the loss of a child.
+
+### **Of course, I've still had some fun...** 
+I wouldn't say these are my most useful projects.
+- **[Record Player Visualizer](https://vinyl.ronenjain.com)** (9th Grade): A web app powered by Spotify API.
+- **[BullyMe](https://bullyme.ronenjain.com)** (8th Grade): A not-so-friendly Discord chatbot that ~~is~~ was in over 10k servers
+- **[Headline or Headlie](https://aiheadlines.web.app)** (9th Grade): A Wordle-inspired headline guessing game made using ChatGPT.
 
 You can learn more about me on my [portfolio site](https://ronenjain.com)!
-## Contact
 
-- [Discord](https://discordapp.com/users/893939197537288265) (bob.brown)
-- [Email](mailto:ronen@ronenjain.com)
+## 📫 Contact Me
+
+- [![Portfolio](https://img.shields.io/badge/Portfolio-ronenjain.com-blue)](https://ronenjain.com)  
+- [![Discord](https://img.shields.io/badge/Discord-bob.brown-blue?logo=discord&logoColor=white)](https://discord.com/users/893939197537288265)  
+- [![Email](https://img.shields.io/badge/Email-mail%20me%20here-red?logo=gmail&logoColor=white)](mailto:ronen@ronenjain.com)
